@@ -1,8 +1,8 @@
 # News Image Daily — World News Summary
 
 [![news-image-20261123](https://make.fun/badge/news-image-20261123.svg)](https://make.fun/bounty/news-image-20261123)
-[![rank](https://make.fun/badge/news-image-20261123/{owner}/{repo}/rank.svg)](https://make.fun/bounty/news-image-20261123)
-[![reward](https://make.fun/badge/news-image-20261123/{owner}/{repo}/reward.svg)](https://make.fun/bounty/news-image-20261123)
+[![rank](https://make.fun/badge/news-image-20261123/zacxy-y/news-image-daily/rank.svg)](https://make.fun/bounty/news-image-20261123)
+[![reward](https://make.fun/badge/news-image-20261123/zacxy-y/news-image-daily/reward.svg)](https://make.fun/bounty/news-image-20261123)
 
 Generates a single image summarizing world news for a given date. Outputs `entry.png` (PNG/JPEG, ≤1 MiB, ≤1024x1024).
 
